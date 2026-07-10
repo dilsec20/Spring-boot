@@ -10,6 +10,7 @@ Every single topic is designed like a "mini-book" containing theory, architectur
 
 ### 🟢 Batch 1: Foundations (Java & Build Tools)
 Before conquering Spring Boot, you must master its foundation.
+
 1. [Core Java Essentials](01-core-java/README.md) *(OOP, Collections, Streams, Multithreading)*
 2. [Maven](02-maven/README.md) *(POM, Lifecycles, Dependencies)*
 3. [Gradle](03-gradle/README.md) *(Groovy/Kotlin DSL, Tasks)*
@@ -19,6 +20,7 @@ Before conquering Spring Boot, you must master its foundation.
 
 ### 🔵 Batch 2: Web & Database Fundamentals
 Understanding how the web and databases work under the hood.
+
 7. [JDBC](07-jdbc/README.md) *(Connections, Statements, Connection Pooling)*
 8. [Servlets & JSP](08-servlets-and-jsp/README.md) *(The raw web layer before Spring MVC)*
 9. [REST APIs & Web Services](09-rest-api-and-web-services/README.md) *(HTTP, Status Codes, Best Practices)*
@@ -27,6 +29,7 @@ Understanding how the web and databases work under the hood.
 
 ### 🟡 Batch 3: Spring Boot Core
 The heart of the framework.
+
 12. [Spring Framework Core](12-spring-framework/README.md) *(IoC, DI, ApplicationContext, AOP)*
 13. [Spring Boot Basics & REST](13-spring-rest-api-springboot/README.md) *(Auto-configuration, Controllers, Actuator)*
 14. [Spring JDBC](14-spring-jdbc/README.md) *(JdbcTemplate, NamedParameterJdbcTemplate)*
@@ -35,6 +38,7 @@ The heart of the framework.
 
 ### 🟠 Batch 4: Security & Production Readiness
 Securing your application for the real world.
+
 17. [Spring Security](17-spring-security/README.md) *(Authentication, Authorization, Filters)*
 18. [JWT (JSON Web Tokens)](18-jwt/README.md) *(Stateless Auth, Signing, Validation)*
 19. [OAuth2 & OIDC](19-oauth2/README.md) *(Social Login, Authorization Server)*
@@ -42,6 +46,7 @@ Securing your application for the real world.
 
 ### 🔴 Batch 5: Advanced Data & Modern Tech
 Scaling out and adopting modern paradigms.
+
 21. [MongoDB & NoSQL](21-springboot-mongodb/README.md) *(Document DBs, MongoTemplate)*
 22. [Docker](22-docker/README.md) *(Containerization, Dockerfile, Compose)*
 23. [Cloud Deployment](23-cloud-deployment/README.md) *(AWS, GCP, Azure, PaaS)*
@@ -50,11 +55,13 @@ Scaling out and adopting modern paradigms.
 
 ### 🟣 Batch 6: Distributed Systems
 Building at scale.
+
 26. [Microservices](26-microservices/README.md) *(Eureka, Gateway, Circuit Breaker, Saga)*
 27. [Apache Kafka](27-springboot-kafka/README.md) *(Event Streaming, Producers, Consumer Groups)*
 
 ### ⚫ Batch 7: DevOps & Infrastructure
 Automating and provisioning.
+
 28. [Linux Essentials](28-linux/README.md) *(Commands, Permissions, Systemd)*
 29. [Ansible](29-ansible/README.md) *(Configuration Management, Playbooks, Roles)*
 30. [Jenkins](30-jenkins/README.md) *(CI/CD, Pipelines, Groovy)*
@@ -62,6 +69,7 @@ Automating and provisioning.
 
 ### 🚀 Batch 8: Master Level (Bonus)
 Bleeding-edge topics for modern enterprise apps.
+
 32. [Spring WebFlux](32-spring-webflux/README.md) *(Reactive Programming, Project Reactor)*
 33. [Spring for GraphQL](33-spring-graphql/README.md) *(Queries, Mutations, Subscriptions)*
 34. [Caching & Redis](34-caching-redis/README.md) *(@Cacheable, Performance Optimization)*
