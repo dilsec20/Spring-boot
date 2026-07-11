@@ -13,6 +13,13 @@ If you want to go extremely deep into specific topics, check out these dedicated
 *   [Segment Trees](SEGMENT_TREE.md)
 *   [Trie (Prefix Tree)](TRIE.md)
 *   [Advanced DSA Topics](ADVANCED.md)
+*   [Backtracking](BACKTRACKING.md)
+*   [Binary Search](BINARY_SEARCH.md)
+*   [String Algorithms](STRING_ALGO.md)
+*   [Intervals](INTERVAL.md)
+*   [Design](DESIGN.md)
+*   [Monotonic Stack](MONOTONIC_STACK.md)
+
 
 ---
 
