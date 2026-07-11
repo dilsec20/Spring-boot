@@ -4,6 +4,18 @@
 
 ---
 
+## 🌟 Dedicated Masterclasses (NEW)
+If you want to go extremely deep into specific topics, check out these dedicated files:
+*   [Dynamic Programming Masterclass](DP.md)
+*   [Tree & BST Masterclass](TREE.md)
+*   [Graph & Traversals Masterclass](GRAPH.md)
+*   [Disjoint Set Union (DSU) & MST](MST_DSU.md)
+*   [Segment Trees](SEGMENT_TREE.md)
+*   [Trie (Prefix Tree)](TRIE.md)
+*   [Advanced DSA Topics](ADVANCED.md)
+
+---
+
 ## 📑 Table of Contents
 
 1. [Introduction & Big O Notation](#1-introduction--big-o-notation)
